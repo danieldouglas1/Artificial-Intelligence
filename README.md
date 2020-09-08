@@ -1,3 +1,3 @@
 # Artificial-Intelligence
 
-Projects from my Artificial Intelligence class.
+Assignments from my Artificial Intelligence class.
